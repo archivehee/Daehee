@@ -3,7 +3,10 @@
 I am Daehee Kang who intersted in Cross Domain Recommendation System from South Korea
 
 Now I'm,,,
-MS/Ph.d combined student in Ulsan National Institute of Science and Technology (2025.03~) 
+MS/Ph.d combined student 
+in Ulsan National Institute of Science and Technology
+
+AI Graduate School(2025.03~) 
 
 Experience
 1. [START-UP] DNU digital & performance marketer (2023.07~2024.02
