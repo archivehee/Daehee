@@ -1,6 +1,6 @@
 ### Hi there
 
-I am Daehee Kang who intersted in Cross Domain Recommendation System from South Korea
+I am Archeeve who intersted in Cross Domain Recommendation System from South Korea
 
 Now I'm,,,
 MS/Ph.d combined student
@@ -12,6 +12,7 @@ Experience
 2. Data based Managemnt Engineering Lab Intern (2024.01~2025.02) - UNIST
 
 Tech Stack
+<br/>
 Python, STATA
 
 Certificates in SPSS
