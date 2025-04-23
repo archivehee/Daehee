@@ -12,7 +12,6 @@ Experience
 2. Data based Managemnt Engineering Lab Intern (2024.01~2025.02) - UNIST
 
 Tech Stack
-
 Python, STATA
 
 Certificates in SPSS
