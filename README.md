@@ -8,7 +8,7 @@ in Ulsan National Institute of Science and Technology
 AI Graduate School(2025.03~) 
 
 Experience
-1. [START-UP] DNU digital & performance marketer (2023.07~2024.02
+1. [START-UP] DNU digital & performance marketer (2023.07~2024.02)
 2. Data based Managemnt Engineering Lab Intern (2024.01~2025.02) - UNIST
 
 Tech Stack
